@@ -7,4 +7,4 @@
 eslint `keyword`
 
 ## Download
-[v1.0](https://github.com/turusuke/alfred-eslint-workflow.git)
+[v1.0](https://github.com/turusuke/alfred-eslint-workflow/releases/download/1.0/ESLint.Rules.alfredworkflow)
